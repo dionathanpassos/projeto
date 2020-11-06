@@ -1,0 +1,43 @@
+.services {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: #fff;
+}
+
+.icones-service ul {    
+    display: flex;
+    margin-bottom: 0;
+}
+
+.icones-service ul li {
+    width: 70px;
+    margin: 5px 30px;
+    text-align: center;    
+}
+
+.icones-service ul li a {
+    color: #000;
+    
+      
+}
+
+.icones-service ul li a:hover {
+    text-decoration: underline;   
+}
+
+.icones-service img {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+

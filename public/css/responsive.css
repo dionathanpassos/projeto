@@ -1,0 +1,37 @@
+@media (max-width: 680px) {
+    
+    .icones-service ul li {        
+        margin: 10px 5px;
+           
+    }
+
+    .icones-service img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .icones-service ul li a {
+        font-size: 14px;
+        
+          
+    }
+}
+
+@media (max-width: 950px) {
+   
+    .icones-service ul li {        
+        margin: 3px 10px;
+           
+    }
+}
+
+@media (max-width: 360px) {
+
+    .services {
+        display: none;
+    }
+
+    
+   
+    
+}

@@ -1,0 +1,32 @@
+:root {
+    --title-color: #322153;    
+    --coral: #E14658;
+    --nav: #22252C;
+    --secondary: #3F3250;
+    --scrub: #C0B3A0;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
